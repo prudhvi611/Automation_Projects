@@ -1,0 +1,15 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is 9C23-416F
+
+ Directory of C:\Users\PentaPru\IdeaProjects\Appium
+
+08/24/2020  04:02 PM    <DIR>          .
+08/24/2020  04:02 PM    <DIR>          ..
+07/23/2020  09:16 AM    <DIR>          .idea
+07/22/2020  11:49 AM                81 Appium.iml
+07/22/2020  03:38 PM               941 pom.xml
+07/22/2020  11:49 AM    <DIR>          src
+08/24/2020  04:02 PM                 0 t.txt
+07/22/2020  02:33 PM    <DIR>          target
+               3 File(s)          1,022 bytes
+               5 Dir(s)  136,492,040,192 bytes free
